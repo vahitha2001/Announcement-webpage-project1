@@ -2,23 +2,23 @@
     background:#eee;
     display: flex;
     flex-wrap: wrap;
-    gap:1.5rem;
-    padding-top: 5rem;
-    padding-bottom: 5rem;
+    gap:.1 rem;
+    padding-top: 0.1rem;
+    padding-bottom: 0.1rem;
 }
 
 .icons-container  .icons{
     background:#fff;
-    border:.1rem solid rgba(0,0,0,.1);
-    padding:2rem;
+    border:0.1rem solid rgba(0,0,0,0.1);
+    padding:1.1rem;
     display: flex;
     align-items: center;
-    flex:1 1 25rem;
+    flex:1 1 1 1 25rem;
 }
 
 .icons-container .icons img{
-    height:5rem;
-    margin-right: 2rem;
+    height:4rem;
+    margin-right: 2.1rem;
 }
 
 .icons-container .icons h3{
@@ -29,5 +29,5 @@
 
 .icons-container .icons span{
     color:#555;
-    font-size: 1.3rem;
+    font-size: 1.1rem;
 }
